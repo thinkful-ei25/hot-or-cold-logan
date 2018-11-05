@@ -1,0 +1,30 @@
+.guess-section{
+  text-align: center;
+  display: block;
+  width: 20rem;
+  height: 20rem;
+  margin: 0 auto;
+}
+
+.guess-form{
+  background-color:grey;
+  padding: 50px;
+}
+.guess-form input,
+.guess-form button{
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  padding: 5px 0;
+}
+
+.guess-form input{
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+.guess-number{
+  padding:0px;
+  margin:0px;
+  background-color: lightgrey;
+}

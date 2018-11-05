@@ -1,0 +1,13 @@
+.nav-bar > ul{
+  list-style: none;
+}
+
+ul li {
+  display: inline;
+  padding: 0px;
+}
+
+#newgame{
+  float: right;
+}
+
